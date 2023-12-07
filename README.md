@@ -1,4 +1,4 @@
-# SQL优化技巧及原理:see_no_evil:
+# SQL优化技巧及原理 :see_no_evil:
 
 ## 目录
 
